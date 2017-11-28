@@ -36,13 +36,18 @@ I found out the hard way that the "continue" statement was necessary to throw th
 
 20 is evaulated as:
 
+```
 >= 10 (Numeral set to X)
+```
 
 Moved down to the tree, found to be:
 
+```
 >= 9 (Numeral set to XIX)
+```
 
 Moved down the tree, found to be: 
 
+```
 >=1 (Numeral set to XIXI)
-
+```
